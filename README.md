@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi ImmortalDeveloper Githud 👋
+
+💬 공부내용, 새로 습득한 개발소스 정리!!
+😄 매일 차곡차곡 잔디심기!!
 
 <!--
 **ImmortalDeveloper/ImmortalDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
